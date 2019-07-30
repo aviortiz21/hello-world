@@ -2,4 +2,4 @@
 HOLAAAAAAA MUNDO
 
   Estudiane de ingenieria industrual en la UAH.
-    Es unn placer comezar en github <3.
+    Es un placer comezar en github <3.
